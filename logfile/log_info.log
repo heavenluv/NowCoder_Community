@@ -1,0 +1,10 @@
+2022-03-01 18:22:45,092 INFO [main] c.n.c.LoggerTests [StartupInfoLogger.java:55] Starting LoggerTests using Java 17.0.1 on Puns-MacBook-Air.local with PID 77130 (started by heavenluv in /Users/heavenluv/Desktop/Java/community)
+2022-03-01 18:22:45,097 INFO [main] c.n.c.LoggerTests [SpringApplication.java:670] No active profile set, falling back to default profiles: default
+2022-03-01 18:22:47,943 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2022-03-01 18:22:48,369 INFO [main] c.n.c.LoggerTests [StartupInfoLogger.java:61] Started LoggerTests in 3.828 seconds (JVM running for 5.225)
+2022-03-01 18:22:48,841 INFO [main] c.n.c.LoggerTests [LoggerTests.java:18] info log
+2022-03-01 18:24:11,755 INFO [main] c.n.c.LoggerTests [StartupInfoLogger.java:55] Starting LoggerTests using Java 17.0.1 on Puns-MacBook-Air.local with PID 77856 (started by heavenluv in /Users/heavenluv/Desktop/Java/community)
+2022-03-01 18:24:11,756 INFO [main] c.n.c.LoggerTests [SpringApplication.java:670] No active profile set, falling back to default profiles: default
+2022-03-01 18:24:14,956 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:57] Adding welcome page template: index
+2022-03-01 18:24:15,477 INFO [main] c.n.c.LoggerTests [StartupInfoLogger.java:61] Started LoggerTests in 4.436 seconds (JVM running for 6.179)
+2022-03-01 18:24:15,970 INFO [main] c.n.c.LoggerTests [LoggerTests.java:18] info log
